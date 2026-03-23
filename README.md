@@ -12,11 +12,11 @@ Pinterest Downloader is a browser extension built for users who want a cleaner w
 
 ## Links
 
-- ðŸš€ Get it here: [Pinterest Downloader](https://serp.ly/pinterest-downloader)
-- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/pinterest-downloader/releases/latest)
-- â“ Help center: [SERP Help](https://help.serp.co/en/)
-- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/pinterest-downloader/issues)
-- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/pinterest-downloader/issues)
+- :rocket: Get it here: [Pinterest Downloader](https://serp.ly/pinterest-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/pinterest-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/pinterest-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/pinterest-downloader/issues)
 
 ## Preview
 
@@ -150,6 +150,10 @@ No. Everything runs through the browser extension.
 
 **What if I load more pins by scrolling?**  
 Rescan after scrolling so the newly visible pins get added.
+
+## License
+
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
 
 ## Notes
 
