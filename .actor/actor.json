@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Pinterest Downloader gives creators, researchers, and content teams a dependable way to save Pinterest videos, images, and pin text for offline reference. Instead of juggling downloader sites or manual copy-paste, it captures visible Pinterest content directly from the browser with a clean local-first workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "pinterest-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Pinterest Downloader",
+  "version": "0.0"
+}
