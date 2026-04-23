@@ -1,4 +1,4 @@
-# Pinterest Downloader (Browser Extension)
+# Pinterest Downloader
 
 > Download Pinterest videos, images, pins, and post text in one browser workflow.
 
